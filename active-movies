@@ -4,11 +4,11 @@
         "trailers": [
             {
                 "movie": "Mission: Impossible – The Final Reckoning",
-                "link": "https://www.youtube.com/watch?v=fsQgc9pCyDU"
+                "link": "https://d346azgjfhsciq.cloudfront.net/S3/uploads/gallery/1753878206420-kingdombanner.jpg"
             },
             {
                 "movie": "Karate Kid: Legends",
-                "link": "https://www.youtube.com/watch?v=fsQgc9pCyDU"
+                "link": "https://d346azgjfhsciq.cloudfront.net/S3/uploads/gallery/1749637266394-saiyaaraposter.jpg"
             }
         ],
         "activeMovies": [
@@ -16,7 +16,7 @@
                 "movieId": 398,
                 "movieName": "Mission: Impossible – The Final Reckoning",
                 "releaseDate": "2025-05-23",
-                "coverImage": "http://localhost:3800/S3/uploads/gallery/1745499337052-mission_impossible.jpg",
+                "coverImage": "https://d346azgjfhsciq.cloudfront.net/S3/uploads/gallery/1749637266394-saiyaaraposter.jpg",
                 "rating": "PG",
                 "languages": "English, Hindi Dubbed",
                 "runtime": 169,
@@ -44,7 +44,7 @@
                 "movieId": 399,
                 "movieName": "Karate Kid: Legends",
                 "releaseDate": "2025-05-30",
-                "coverImage": "http://localhost:3800/S3/uploads/gallery/1745500015995-karate_kid_legends.jpg",
+                "coverImage": "https://d346azgjfhsciq.cloudfront.net/S3/uploads/gallery/1753878206420-kingdombanner.jpg",
                 "rating": "PG",
                 "languages": "English",
                 "runtime": 118,
@@ -67,7 +67,7 @@
                 "movieId": 403,
                 "movieName": "Mahabhoj",
                 "releaseDate": "2025-05-29",
-                "coverImage": "http://localhost:3800/S3/uploads/gallery/1745500015995-karate_kid_legends.jpg",
+                "coverImage": "https://d346azgjfhsciq.cloudfront.net/S3/uploads/gallery/1752571752092-mahavatarnarsimha_500x715.jpg",
                 "rating": "PG",
                 "languages": "Nepali",
                 "runtime": 140,
