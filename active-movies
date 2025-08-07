@@ -1,0 +1,94 @@
+{
+    "status": true,
+    "data": {
+        "trailers": [
+            {
+                "movie": "Mission: Impossible – The Final Reckoning",
+                "link": "https://www.youtube.com/watch?v=fsQgc9pCyDU"
+            },
+            {
+                "movie": "Karate Kid: Legends",
+                "link": "https://www.youtube.com/watch?v=fsQgc9pCyDU"
+            }
+        ],
+        "activeMovies": [
+            {
+                "movieId": 398,
+                "movieName": "Mission: Impossible – The Final Reckoning",
+                "releaseDate": "2025-05-23",
+                "coverImage": "http://localhost:3800/S3/uploads/gallery/1745499337052-mission_impossible.jpg",
+                "rating": "PG",
+                "languages": "English, Hindi Dubbed",
+                "runtime": 169,
+                "genre": "Action, Adventure, Thriller",
+                "overview": "Our lives are the sum of our choices. Tom Cruise is Ethan Hunt in Mission: Impossible - The Final Reckoning.",
+                "casts": [
+                    "Christopher McQuarrie",
+                    "Tom Cruise",
+                    "Hayley Atwell",
+                    "Ving Rhames",
+                    "Simon Pegg"
+                ],
+                "trailers": [
+                    {
+                        "language": "English",
+                        "link": "https://www.youtube.com/watch?v=fsQgc9pCyDU"
+                    },
+                    {
+                        "language": "Hindi",
+                        "link": "https://www.youtube.com/watch?v=fsQgc9pCyDU"
+                    }
+                ]
+            },
+            {
+                "movieId": 399,
+                "movieName": "Karate Kid: Legends",
+                "releaseDate": "2025-05-30",
+                "coverImage": "http://localhost:3800/S3/uploads/gallery/1745500015995-karate_kid_legends.jpg",
+                "rating": "PG",
+                "languages": "English",
+                "runtime": 118,
+                "genre": "Action,Drama,Family",
+                "overview": "Kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City. When a friend needs his help, Li enters a karate competition. Li's teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help.",
+                "casts": [
+                    "Jonathan Entwistle",
+                    "Jackie Chan",
+                    "Joshua Jackson",
+                    "Ralph Macchio"
+                ],
+                "trailers": [
+                    {
+                        "language": "English",
+                        "link": "https://www.youtube.com/watch?v=LhRXf-yEQqA"
+                    }
+                ]
+            },
+            {
+                "movieId": 403,
+                "movieName": "Mahabhoj",
+                "releaseDate": "2025-05-29",
+                "coverImage": "http://localhost:3800/S3/uploads/gallery/1745500015995-karate_kid_legends.jpg",
+                "rating": "PG",
+                "languages": "Nepali",
+                "runtime": 140,
+                "genre": "Social Drama",
+                "overview": "A bank loan manager, desperately in need of money, finally turns to his father for help—only to discover that his father's hard-earned savings have been stolen by a corrupt cooperative and a group of individuals for their own gain. Determined to seek justice, he sets out on a mission to expose the culprits and reclaim his father’s money.",
+                "casts": [
+                    "Dinesh Raut",
+                    "Aryan Sigdel",
+                    "Dayahang Rai",
+                    "Khagendra Lamichhane",
+                    "Anjana Baraili",
+                    "Gaumaya Gurung",
+                    "Mailka Mahat"
+                ],
+                "trailers": [
+                    {
+                        "language": "Nepali",
+                        "link": "https://www.youtube.com/watch?v=UgUOVSj_n-o"
+                    }
+                ]
+            }
+        ]
+    }
+}
