@@ -1,0 +1,47 @@
+{
+  "status": true,
+  "data": {
+    "cities": [
+      {
+        "id": "29790",
+        "name": "Kathmandu",
+        "icon": "https://cdn.esewahotels.com/web/1696400873-1515150318.jpg"
+      },
+      {
+        "id": "29791",
+        "name": "Birtamode",
+        "icon": "https://cdn.esewahotels.com/web/1696400873-1515150318.jpg"
+      },
+      {
+        "id": "29792",
+        "name": "Nepalgunj",
+        "icon": "https://cdn.esewahotels.com/web/1696400873-1515150318.jpg"
+      },
+      {
+        "id": "29793",
+        "name": "Narayangarh",
+        "icon": "https://cdn.esewahotels.com/web/1696400873-1515150318.jpg"
+      },
+      {
+        "id": "29794",
+        "name": "Biratnagar",
+        "icon": "https://cdn.esewahotels.com/web/1696400873-1515150318.jpg"
+      },
+      {
+        "id": "29795",
+        "name": "Butwal",
+        "icon": "https://cdn.esewahotels.com/web/1696400873-1515150318.jpg"
+      },
+      {
+        "id": "29796",
+        "name": "Damauli",
+        "icon": "https://cdn.esewahotels.com/web/1696400873-1515150318.jpg"
+      },
+      {
+        "id": "29797",
+        "name": "Pokhara",
+        "icon": "https://cdn.esewahotels.com/web/1696400873-1515150318.jpg"
+      }
+    ]
+  }
+}
