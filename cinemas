@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "cinemas": [
+      {
+        "id": "1",
+        "code": "QFXCC",
+        "name": "Civil Mall",
+        "city": "Kathmandu",
+        "address": "Sundhara, Kathmandu",
+        "noOfScreens": 3,
+        "movieFormats": [
+          "2D",
+          "3D",
+          "3D Atmos",
+          "4K",
+          "Atmos",
+          "Premier"
+        ]
+      },
+      {
+        "id": "2",
+        "code": "QFXONE",
+        "name": "One Stop",
+        "city": "Birtamode",
+        "address": "Krishna Hall Road ,Birtamode",
+        "noOfScreens": 2,
+        "movieFormats": [
+          "2D"
+        ]
+      },
+      {
+        "id": "3",
+        "code": "QFXCH",
+        "name": "Chhaya Center",
+        "city": "Kathmandu",
+        "address": "Thamel, Kathmandu",
+        "noOfScreens": 4,
+        "movieFormats": [
+          "2D",
+          "3D",
+          "3D Atmos",
+          "Atmos",
+          "Premier"
+        ]
+      },
+      {
+        "id": "4",
+        "code": "QFXBAG",
+        "name": "Bageshwori",
+        "city": "Nepalgunj",
+        "address": "New road, Nepalgunj",
+        "noOfScreens": 3,
+        "movieFormats": [
+          "2D",
+          "3D",
+          "Premier"
+        ]
+      },
+      {
+        "id": "5",
+        "code": "QFXDC",
+        "name": "Durbar Cinemax",
+        "city": "Kathmandu",
+        "address": "Durbar Marg, Kathmandu",
+        "noOfScreens": 3,
+        "movieFormats": [
+          "2D",
+          "3D",
+          "Premier"
+        ]
+      },
+      {
+        "id": "6",
+        "code": "QFXLC",
+        "name": "Labim Mall",
+        "city": "Lalitpur",
+        "address": "Pulchowk, Lalitpur",
+        "noOfScreens": 3,
+        "movieFormats": [
+          "2D",
+          "3D",
+          "3D Atmos",
+          "4K",
+          "Atmos",
+          "Premier",
+          "Laser",
+          "Laser 3D",
+          "Laser 3D Atmos",
+          "Laser Atmos"
+        ]
+      }
+    ]
+  }
+}
