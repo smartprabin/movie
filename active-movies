@@ -1,6 +1,16 @@
 {
     "status": true,
     "data": {
+"banners": [
+      {
+        "title": "Mission: Impossible – The Final Reckoning",
+        "link": "https://d346azgjfhsciq.cloudfront.net/S3/uploads/gallery/1754396224040-moharbanner.jpg"
+      },
+      {
+        "title": "Karate Kid: Legends",
+        "link": "https://d346azgjfhsciq.cloudfront.net/S3/uploads/gallery/1754396224040-moharbanner.jpg"
+      }
+    ],
         "trailers": [
             {
                 "movie": "Mission: Impossible – The Final Reckoning",
